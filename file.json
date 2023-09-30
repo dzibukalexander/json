@@ -3,42 +3,51 @@
   {
     "id": "1",
     "name": "Коля",
-    "email": "qwerty@gmail.com"
+    "email": "qwerty@gmail.com",
+    "location": "г. Минск, ул. Васнецова, дом 13"
   },
   {
     "id": "2",
     "name": "Вася",
-    "email": "abc@gmail.com"
+    "email": "abc@gmail.com",
+    "location": "г. Брест, ул. Васнецова, дом 13"
+    ""
   },
   {
     "id": "3",
     "name": "Федя",
-    "email": "def@gmail.com"
+    "email": "def@gmail.com",
+    "location": "г. Гомель, ул. Васнецова, дом 13"
   },
   {
     "id": "4",
     "name": "Юра",
-    "email": "xyz@gmail.com"
+    "email": "xyz@gmail.com",
+    "location": "г. Гродно, ул. Васнецова, дом 13"
   },
   {
     "id": "5",
     "name": "Маша",
-    "email": "xyz@gmail.com"
+    "email": "xyz@gmail.com",
+    "location": "г. Могилёв, ул. Васнецова, дом 13"
   },
   {
     "id": "6",
     "name": "Петя",
-    "email": "xyz@gmail.com"
+    "email": "xyz@gmail.com",
+    "location": "г. Витебск, ул. Васнецова, дом 13"
   },
   {
     "id": "7",
     "name": "Иван",
-    "email": "xyz@gmail.com"
+    "email": "xyz@gmail.com",
+    "location": "г. Бобруйск, ул. Васнецова, дом 13"
   },
   {
     "id": "8",
     "name": "Генадий",
-    "email": "xyz@gmail.com"
+    "email": "xyz@gmail.com",
+    "location": "г. Борисов, ул. Васнецова, дом 13"
   }
 ]
 }
