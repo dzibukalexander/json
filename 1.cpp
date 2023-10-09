@@ -10,7 +10,6 @@ int main()
     cin >> base >> exponent;
 
     cout << base << "^" << exponent << " = ";
-
     while (exponent != 0) {
         result *= base;
         --exponent;
