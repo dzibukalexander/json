@@ -11,7 +11,7 @@ jobs:
         uses: dzibukalexander/duplicate-code-detection-tool@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          one_comment: true
+          one_comment: false
           file_extensions: "h, hpp, cpp, c, md"
           # Only report similarities above 20%
           ignore_below: 20
