@@ -14,6 +14,6 @@ int main()
         --exponent;
     }
     cout << result;
-    
+
     return 0;
 }
