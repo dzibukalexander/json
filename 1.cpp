@@ -8,7 +8,6 @@ int main()
     cout << "Enter base and exponent respectiy:  ";
     cin >> base >> exponent;
     cout << base << "^" << exponent << " = ";
-
     while (exponent != 0) {
         result *= base;
         --exponent;
