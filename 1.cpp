@@ -5,7 +5,6 @@ int main()
 {
     int exponent;
     float base, result = 1;
-
     cout << "Enter base and exponent respectiy:  ";
     cin >> base >> exponent;
     cout << base << "^" << exponent << " = ";
